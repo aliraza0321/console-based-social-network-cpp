@@ -1,4 +1,3 @@
-# console-based-social-network-cpp
 # Console-Based Social Network Application (C++)
 
 ## 📌 Overview
